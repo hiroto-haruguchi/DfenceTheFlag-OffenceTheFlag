@@ -54,6 +54,7 @@ namespace Assets.Scripts.Manager
 
         private GameObject GetUnit(UnitKindIs kind)
         {
+            Debug.Log(kind);
             var unit = Instantiate(SelectUnit(kind));
             return unit;
 

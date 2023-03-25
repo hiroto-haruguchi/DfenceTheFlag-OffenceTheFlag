@@ -148,8 +148,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  BlockHitPoint: 10
-  BlockKind: 2
+  blockHitPoint: 0
+  blockKind: 2
 --- !u!114 &4664201677941810712
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -287,11 +287,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 2
-    UnitHitPoint: 3
-  UnitKind: 2
+  ___Animator: {fileID: 27028135256613319}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 2
 --- !u!114 &2774931011486734012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -622,11 +622,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 1
-    UnitHitPoint: 3
-  UnitKind: 10
+  ___Animator: {fileID: 7647095159222187127}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 10
 --- !u!114 &2770226778264544238
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -912,11 +912,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 1
-    UnitHitPoint: 3
-  UnitKind: 10
+  ___Animator: {fileID: 7075320071385604514}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 10
 --- !u!114 &3341305909800793659
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1202,11 +1202,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 0.1
-    UnitHitPoint: 3
-  UnitKind: 6
+  ___Animator: {fileID: 3946062447643828820}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 6
 --- !u!114 &1162410413608473903
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1537,11 +1537,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 1
-    UnitHitPoint: 3
-  UnitKind: 10
+  ___Animator: {fileID: 6484024998596078666}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 10
 --- !u!114 &1555360877562428371
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1827,11 +1827,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 0.1
-    UnitHitPoint: 3
-  UnitKind: 6
+  ___Animator: {fileID: 2539727145361871930}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 6
 --- !u!114 &422318699651703617
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2186,8 +2186,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  BlockHitPoint: 0
-  BlockKind: 5
+  blockHitPoint: 0
+  blockKind: 5
 --- !u!114 &7818211402997506541
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2349,8 +2349,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  BlockHitPoint: 0
-  BlockKind: 5
+  blockHitPoint: 0
+  blockKind: 5
 --- !u!114 &7894002502495795485
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2488,11 +2488,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 1
-    UnitHitPoint: 3
-  UnitKind: 10
+  ___Animator: {fileID: 4307182119734965521}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 10
 --- !u!114 &8622156100713636488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2831,11 +2831,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 1
-    UnitHitPoint: 3
-  UnitKind: 10
+  ___Animator: {fileID: 3795054769192350429}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 10
 --- !u!114 &8702252106811909444
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3145,8 +3145,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  BlockHitPoint: 0
-  BlockKind: 5
+  blockHitPoint: 0
+  blockKind: 5
 --- !u!114 &166784283095858011
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3284,11 +3284,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 0.1
-    UnitHitPoint: 3
-  UnitKind: 6
+  ___Animator: {fileID: 4613768060714311417}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 6
 --- !u!114 &7414588978883717506
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3643,8 +3643,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  BlockHitPoint: 0
-  BlockKind: 5
+  blockHitPoint: 0
+  blockKind: 5
 --- !u!114 &478271117327094699
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3782,11 +3782,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 1
-    UnitHitPoint: 3
-  UnitKind: 10
+  ___Animator: {fileID: 2948063855997966618}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 10
 --- !u!114 &7243901937951362691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4096,8 +4096,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  BlockHitPoint: 0
-  BlockKind: 5
+  blockHitPoint: 0
+  blockKind: 5
 --- !u!114 &936507613874177637
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4235,11 +4235,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 1
-    UnitHitPoint: 3
-  UnitKind: 10
+  ___Animator: {fileID: 2143179812644674843}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 10
 --- !u!114 &5895274261845559938
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4549,8 +4549,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  BlockHitPoint: 0
-  BlockKind: 5
+  blockHitPoint: 0
+  blockKind: 5
 --- !u!114 &2669959698506056777
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4712,8 +4712,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  BlockHitPoint: 10
-  BlockKind: 2
+  blockHitPoint: 0
+  blockKind: 2
 --- !u!114 &3632252915359821005
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4875,8 +4875,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  BlockHitPoint: 0
-  BlockKind: 5
+  blockHitPoint: 0
+  blockKind: 5
 --- !u!114 &3083454783893309357
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5038,8 +5038,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  BlockHitPoint: 0
-  BlockKind: 5
+  blockHitPoint: 0
+  blockKind: 5
 --- !u!114 &3149545391746646746
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5177,11 +5177,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTag: 0
-  ___Animator: {fileID: 0}
-  ___Parameter:
-    SecPerAttack: 1
-    UnitHitPoint: 3
-  UnitKind: 10
+  ___Animator: {fileID: 148261429875288711}
+  ___parameter:
+    SecPerAttack: 0
+    UnitHitPoint: 0
+  unitKind: 10
 --- !u!114 &5647682054875004190
 MonoBehaviour:
   m_ObjectHideFlags: 0
