@@ -51,7 +51,6 @@ namespace Assets.Scripts.UI.StartScene.StageSelect
 
             if (setStage <= 0) setStage = listLen;
             else if (setStage > 6) setStage = 1;
-            Debug.Log(setStage);
 
             CurrentStage.Value = (StageList)setStage;
         }
